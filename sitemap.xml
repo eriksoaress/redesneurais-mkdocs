@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/projeto/main/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/data/main/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro1/main/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/projeto/main/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro2/main/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/roteiro1/main/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro3/main/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/roteiro2/main/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/roteiro4/main/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/roteiro3/main/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
     <url>
-         <loc>https://hsandmann.github.io/documentation.template/thisdocumentation/main/</loc>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/roteiro4/main/</loc>
+         <lastmod>2025-08-30</lastmod>
+    </url>
+    <url>
+         <loc>https://eriksoaress.github.io/redesneurais.eriksoares/thisdocumentation/main/</loc>
          <lastmod>2025-08-30</lastmod>
     </url>
 </urlset>
