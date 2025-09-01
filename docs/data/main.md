@@ -87,7 +87,7 @@ plt.axvline(0, color='black', linewidth=0.5)
 plt.show()
 ```
 
-![Dados Sintéticos](../../imagens/dados_sinteticos.png)
+![Dados Sintéticos](../imagens/dados_sinteticos.png)
 
 
 ##### Análise e Limites de Decisão
@@ -164,7 +164,7 @@ plt.ylim(-3, 14)
 
 plt.show()
 ```
-![Esboço de Perceptron simples](../../imagens/retas.png)
+![Esboço de Perceptron simples](../imagens/retas.png)
 
 
 
@@ -281,7 +281,7 @@ plt.ylabel('Segundo Componente Principal (PC2)', fontsize=12)
 plt.legend(fontsize=12)
 plt.show()
 ```
-![Visualização PCA](../../imagens/visualizacao_pca.png)
+![Visualização PCA](../imagens/visualizacao_pca.png)
 
 
 ##### Análise da Separabilidade
@@ -429,4 +429,4 @@ Para preparar os dados para uma rede neural, aplicamos as seguintes etapas de pr
 4.  **Visualize os resultados:**
     * Crie histogramas para um ou dois recursos numéricos (como FoodCourtou Age) antes e depois do dimensionamento para mostrar o efeito da sua transformação.
 
-![Comparativo de valores numéricos normalizados](../../imagens/comparativo_valores_numericos.png)
+![Comparativo de valores numéricos normalizados](../imagens/comparativo_valores_numericos.png)
