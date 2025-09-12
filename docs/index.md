@@ -12,6 +12,6 @@
 ## Entregas
 
 - [x] Data - https://eriksoaress.github.io/redesneurais-mkdocs/data/main/
-- [x] Perceptron - https://eriksoaress.github.io/redesneurais.eriksoares/perceptron/main/
+- [x] Perceptron - https://eriksoaress.github.io/redesneurais-mkdocs/perceptron/main/
 - [ ] MLP
 - [ ] Metrics
