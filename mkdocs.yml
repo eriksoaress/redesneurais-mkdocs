@@ -108,10 +108,6 @@ plugins:
   - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
-  - git-authors
-  - git-committers:
-      repository: hsandmann/hsandmann.github.com
-      branch: main
   - search
   - badges
   - minify:
@@ -133,6 +129,7 @@ extra_javascript:
 
 nav:
   - Data: ./data/main.md
+  - Perceptron: ./perceptron/main.md
   # - Home: index.md
   # - This documentation: ./thisdocumentation/main.md
   # - Roteiros:

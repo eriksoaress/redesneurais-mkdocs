@@ -1,4 +1,4 @@
-# Redes Neurais
+# Redes Neurais - Dados
 
 
 ???+ info inline end "Edição"
@@ -87,7 +87,7 @@ plt.axvline(0, color='black', linewidth=0.5)
 plt.show()
 ```
 
-![Dados Sintéticos](../imagens/dados_sinteticos.png)
+![Dados Sintéticos](../imagens/data/dados_sinteticos.png)
 
 
 ##### Análise e Limites de Decisão
@@ -164,7 +164,7 @@ plt.ylim(-3, 14)
 
 plt.show()
 ```
-![Esboço de Perceptron simples](../imagens/retas.png)
+![Esboço de Perceptron simples](../imagens/data/retas.png)
 
 
 
@@ -281,7 +281,7 @@ plt.ylabel('Segundo Componente Principal (PC2)', fontsize=12)
 plt.legend(fontsize=12)
 plt.show()
 ```
-![Visualização PCA](../imagens/visualizacao_pca.png)
+![Visualização PCA](../imagens/data/visualizacao_pca.png)
 
 
 ##### Análise da Separabilidade
@@ -339,7 +339,6 @@ contagem_nulos = df.isnull().sum()
 print(f'Nulos: {contagem_nulos}')
 print(df.describe())
 
-# Tratamento de valores nulos:
 
 df['HomePlanet'] = df['HomePlanet'].fillna('Earth') # Foi preenchido com Earth pois é o valor predominante (54%)
 
@@ -429,4 +428,6 @@ Para preparar os dados para uma rede neural, aplicamos as seguintes etapas de pr
 4.  **Visualize os resultados:**
     * Crie histogramas para um ou dois recursos numéricos (como FoodCourtou Age) antes e depois do dimensionamento para mostrar o efeito da sua transformação.
 
-![Comparativo de valores numéricos normalizados](../imagens/comparativo_valores_numericos.png)
+![Comparativo de valores numéricos normalizados](../imagens/data/comparativo_valores_numericos.png)
+
+Obs: Partes desse relatório foram gerados com o auxílio de IA.
