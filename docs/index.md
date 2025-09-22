@@ -13,5 +13,5 @@
 
 - [x] Data - https://eriksoaress.github.io/redesneurais-mkdocs/data/main/
 - [x] Perceptron - https://eriksoaress.github.io/redesneurais-mkdocs/perceptron/main/
-- [ ] MLP
+- [x] MLP - https://eriksoaress.github.io/redesneurais-mkdocs/mlp/main/
 - [ ] Metrics

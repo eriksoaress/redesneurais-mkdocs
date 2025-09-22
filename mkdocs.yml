@@ -130,6 +130,7 @@ extra_javascript:
 nav:
   - Data: ./data/main.md
   - Perceptron: ./perceptron/main.md
+  - MLP: ./mlp/main.md
   # - Home: index.md
   # - This documentation: ./thisdocumentation/main.md
   # - Roteiros:
