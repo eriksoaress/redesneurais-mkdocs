@@ -14,4 +14,4 @@
 - [x] Data - https://eriksoaress.github.io/redesneurais-mkdocs/data/main/
 - [x] Perceptron - https://eriksoaress.github.io/redesneurais-mkdocs/perceptron/main/
 - [x] MLP - https://eriksoaress.github.io/redesneurais-mkdocs/mlp/main/
-- [ ] Metrics
+- [x] VAE - https://eriksoaress.github.io/redesneurais-mkdocs/vae/main/

@@ -131,6 +131,7 @@ nav:
   - Data: ./data/main.md
   - Perceptron: ./perceptron/main.md
   - MLP: ./mlp/main.md
+  - VAE: ./vae/main.md
   # - Home: index.md
   # - This documentation: ./thisdocumentation/main.md
   # - Roteiros:
